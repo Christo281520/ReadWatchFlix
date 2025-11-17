@@ -1,5 +1,40 @@
 # ReadWatchFlix
 
+# Screenshots
+
+# Home Page
+![Home Page](project_image/Home page.png)
+
+#Anime Section
+![Anime Section](project_image/Anime section.png)
+
+#Reading Section
+![Reading Section](project_image/Reading section.png)
+
+#Login Page
+![Login Page](project_image/Login page.png)
+
+#Register Page
+![Register Page](project_image/register page.png)
+
+#Payment / Subscription (PayPal)
+![Payment Section](project_image/Payment section(subscription Plan).png)
+
+# Watching an Anime (Episode Selected)
+![Anime Video Selection](project_image/selecting one anime video.png)
+
+#Voting System
+![Voting Section](project_image/vote section.png)
+
+#Subscription Roles (User & Employee)
+![Subscription Roles](project_image/subscription for user and employee.png)
+
+#Admin Panel
+![Admin Panel](project_image/backend admin panel.png)
+
+#Admin Adding Anime
+![Admin Adding Anime](project_image/anime adding.png)
+
 # A Full-Stack Anime & Reading Streaming Platform
 
 Built with Django (Backend) and React (Frontend)
@@ -36,6 +71,8 @@ The project includes authentication, subscriptions, media streaming, and content
 
 # news 
 - details of news about anime and manga
+
+
 
 # Tech Stack
 
