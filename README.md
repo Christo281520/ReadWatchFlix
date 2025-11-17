@@ -1,5 +1,5 @@
 # ReadWatchFlix
-
+![Home Page](project_image/Home page.png)
 # A Full-Stack Anime & Reading Streaming Platform
 
 Built with Django (Backend) and React (Frontend)
