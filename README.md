@@ -1,4 +1,38 @@
 # ReadWatchFlix
+## Screenshots
+
+### Home Page
+![Home Page](project_image/Home%20page.png)
+
+### Anime Section
+![Anime Section](project_image/Anime%20section.png)
+
+### Reading Section
+![Reading Section](project_image/Reading%20section.png)
+
+### Login Page
+![Login Page](project_image/Login%20page.png)
+
+### Register Page
+![Register Page](project_image/register%20page.png)
+
+### Payment / Subscription (PayPal)
+![Payment Section](project_image/Payment%20section(subscription%20Plan).png)
+
+### Watching an Anime (Episode Selected)
+![Anime Video Selection](project_image/selecting%20one%20anime%20video.png)
+
+### Voting System
+![Voting Section](project_image/vote%20section.png)
+
+### Subscription Roles (User & Employee)
+![Subscription Roles](project_image/subscription%20for%20user%20and%20employee.png)
+
+### Admin Panel
+![Admin Panel](project_image/backend%20admin%20panel.png)
+
+### Admin Adding Anime
+![Admin Adding Anime](project_image/anime%20adding.png)
 
 # A Full-Stack Anime & Reading Streaming Platform
 
