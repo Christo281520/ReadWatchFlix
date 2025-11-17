@@ -1,0 +1,33 @@
+/* Netflix-style Navbar enhancements */
+.navbar {
+    background-color: #141414 !important;  /* Dark Netflix background */
+  }
+  
+  .nav-link {
+    color: #ffffff !important;
+  }
+  
+  .nav-link:hover {
+    color: #e50914 !important;   /* Netflix red hover */
+    transition: color 0.3s;
+  }
+  
+  .navbar-brand {
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 1px;
+  }
+  
+  .btn-danger {
+    background-color: #e50914;
+    border-color: #e50914;
+  }
+  
+  .btn-danger:hover {
+    background-color: #b00610;
+  }
+  
+  .btn-outline-light:hover {
+    background-color: #ffffff;
+    color: #141414;
+  }
+  

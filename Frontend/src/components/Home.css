@@ -1,0 +1,51 @@
+.home-container {
+  background-color: #141414;
+  color: #fff;
+  padding: 20px;
+}
+
+.home-section {
+  margin-bottom: 40px;
+}
+
+.home-section h2 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+  color: #e50914;
+}
+
+.card-row {
+  display: flex;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.card-row::-webkit-scrollbar {
+  display: none;
+}
+
+.card {
+  min-width: 200px;
+  margin-right: 15px;
+  background-color: #222;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.08);
+}
+
+.card img {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 8px 8px 0 0;
+}
+
+.card p {
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+}
